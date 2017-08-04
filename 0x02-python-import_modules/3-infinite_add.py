@@ -7,4 +7,4 @@ if __name__ == "__main__":
         num = int(argv[i])
         num += prevnum
         prevnum = num
-    print("{}".format(num))
+    print(num)
